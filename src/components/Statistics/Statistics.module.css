@@ -1,0 +1,8 @@
+.statisticsContainer {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.value {
+  font-size: 20px;
+}
